@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zS/5nSUfQEUWkDNyzwN5DjB3iJKFRw4ZmTjwzgpZ6CUd/BIKu1NttpqcgKVbZvOFlpOMgnbkUHRRVUzswbI+Hg==",
+  "success": true,
+  "projectFilePath": "/Users/seanmalone/Library/Application Support/Terraria/tModLoader/ModSources/ContaminantFinder/ContaminantFinder.csproj",
+  "expectedPackageFiles": [
+    "/Users/seanmalone/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

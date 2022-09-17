@@ -1,0 +1,3 @@
+displayName = Contaminant Finder
+author = planetMalone
+version = 0.1
